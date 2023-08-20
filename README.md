@@ -20,11 +20,11 @@ Here's the original task description on Upwork:
 
 ## How to use
 
-- Clone the repository with __git clone__
-- Copy __.env.example__ file to __.env__ and edit database credentials there
-- Run __composer install__
-- Run __php artisan key:generate__
-- Run __php artisan migrate --seed__ (it has some seeded data for your testing)
+- First Clone the repository using git clone
+- Then Copy __.env.example__ file to __.env__ and edit database credentials there
+- After that Run __composer install__
+- Then Run __php artisan key:generate__
+- Finally Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL. 
 - You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__ or institution user __institution@institution.com__ - __password__ 
 
