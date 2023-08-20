@@ -29,12 +29,6 @@ There will be two types of user:
 
 ---
 
-## Database Schema
-
-![Laravel students DB schema](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-10.07.17-AM.png)
-
----
-
 ## Procedures:
 
 - First Clone the repository using git clone
