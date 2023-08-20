@@ -18,8 +18,6 @@ We implemented the task with the help of our [QuickAdminPanel](https://quickadmi
 
 ## Database Schema
 
-Created with [MySQL Workbench](https://www.mysql.com/products/workbench/) - see [video how to do it](https://www.youtube.com/watch?v=RbKEYDtkAJI)
-
 ![Laravel students DB schema](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-05-at-10.07.17-AM.png)
 
 ---
@@ -36,17 +34,3 @@ Created with [MySQL Workbench](https://www.mysql.com/products/workbench/) - see 
 
 ---
 
-## License
-
-Basically, feel free to use and re-use any way you want.
-
----
-
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
-# EtrainCMS
