@@ -35,7 +35,7 @@ There will be two types of user:
 
 ---
 
-## How to use
+## Procedures:
 
 - First Clone the repository using git clone
 - Then Copy __.env.example__ file to __.env__ and edit database credentials there
