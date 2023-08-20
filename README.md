@@ -1,4 +1,4 @@
-Here's the original task description on Upwork:
+Here's task description :
 
 ![Laravel students registration](https://laraveldaily.com/wp-content/uploads/2019/11/Screen_Shot_2019-10-27_at_3.37.19_PM.png)
 
