@@ -1,6 +1,23 @@
 Here's task description :
+--------------------------------
 
-![Laravel students registration](https://laraveldaily.com/wp-content/uploads/2019/11/Screen_Shot_2019-10-27_at_3.37.19_PM.png)
+Looking for an individual to develop a CMS solution on which:
+
+There will be two types of user:
+
+1- Student
+
+2- Institution
+
+- Student can register and apply for admissions in multiple institutions
+
+- Student can search for institutes/courses/scholarships
+
+- Institutes can add and manage courses
+
+- Institutions can view the student applications, accept or reject those applications. If an application is accepted, the institution should be able to send an offer letter to the student
+
+- There should be a separate Dashboard for the Student and Institution
 
 ---
 
